@@ -1,2 +1,2 @@
 # zxing_lib
-zxing_lib
+zxing for jcenter
